@@ -28,7 +28,11 @@ public class CPE1
       }
 	  
 	  if(2*b == sum)
-	    System.out.println("Test #1: Symmetric.???");
+<<<<<<< HEAD
+	    System.out.println("Test #1: Symmetric.!!!");
+=======
+	    System.out.println("Test #1: Symmetric.!!!");
+>>>>>>> apple
 	  else
 	    System.out.println("Test #1: Non-symmetric.");
     }
